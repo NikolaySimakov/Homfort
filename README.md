@@ -1,4 +1,4 @@
-# homfort
+# Homfort
 
 ## Project setup
 ```
